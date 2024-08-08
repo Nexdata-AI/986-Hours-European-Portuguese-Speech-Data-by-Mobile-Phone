@@ -4,7 +4,7 @@
 ## Description
 It is speech data of 2,000 Portuguese natives with authentic accents. The recorded text is designed by professional language experts and is rich in content, covering multiple categories such as general purpose, interactive, vehicle-mounted and household commands. The recording environment is quiet and without echo. The texts are manually transcribed with a high accuracy rate. Recording devices are mainstream Android phones and iPhones.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/953?source=Github
+For more details, please refer to the link:https://www.nexdata.ai/datasets/speechrecog/953?source=Github
 
 
 ## Format
